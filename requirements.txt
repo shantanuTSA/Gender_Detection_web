@@ -6,6 +6,6 @@ matplotlib
 seaborn
 scikit-learn
 tqdm
-opencv-python
+opencv-python-headless
 Pillow
-jupyter
+streamlit
